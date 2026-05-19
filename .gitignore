@@ -1,4 +1,15 @@
+# Virtual Environment
 venv/
+.venv
+
+# Python
 __pycache__/
+*.pyc
+
+# Database
 *.db
-.env
+movies.db
+
+# IDE
+.vscode/
+.idea/
